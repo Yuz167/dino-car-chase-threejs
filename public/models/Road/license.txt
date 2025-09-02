@@ -1,0 +1,10 @@
+Model Information:
+* title:	Hiden Road Diorama
+* source:	https://sketchfab.com/3d-models/hiden-road-diorama-ffdfb06b044844848b26b733dfada25f
+* author:	Toni García Vilche (https://sketchfab.com/zul_gv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+Credits: "Hiden Road Diorama" (https://skfb.ly/oCxPT) by Toni García Vilche is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

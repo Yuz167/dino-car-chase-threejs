@@ -1,0 +1,10 @@
+Model Information:
+* title:	TRUCK
+* source:	https://sketchfab.com/3d-models/truck-8a76acb161104e5585c79865a2b41c38
+* author:	Shah@NarsunStudios (https://sketchfab.com/NarsunStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+Credits: "TRUCK" (https://skfb.ly/pt9vq) by Shah@NarsunStudios is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
