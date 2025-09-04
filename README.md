@@ -1,6 +1,6 @@
 <h1 align="center">🦖 Dinosaur Car Chase 3D Customization App 🚗</h1>
 
-![Demo App](/doc/readme_home.png)
+![Demo App](/public/doc/readme_home.png)
 
 ## Highlights:
 
@@ -14,22 +14,23 @@
 ## Features
 
 - **3D Dinosaur-Car Chase Scene**: Create and customize a dinosaur chasing a car on a rainy day  
-![3D Scene Image](/doc/readme_dinosaur_car_chase.png)
+![3D Scene Image](/public/doc/readme_dinosaur_car_chase.png)
 
 - **Dinosaur Customization**: Choose from multiple dinosaur models and apply unique color options  
-![Dinosaur Customization Image](/doc/readme_dinosaur_customization.png)
+![Dinosaur Customization Image](/public/doc/readme_dinosaur_customization.png)
 
 - **Car Customization**: Apply different colors and decals for a personalized vehicle look  
-![Car Customization Image](/doc/readme_car_customization.png)
+![Car Customization Image](/public/doc/readme_car_customization.png)
 
 - **Dynamic Theme System**: UI colors adapt based on selected scene customization for immersive experience  
-![Dynamic Theme Image](/doc/readme_dynamic_theme.png)
+![Dynamic Theme Image](/public/doc/readme_dynamic_theme.png)
 
 - **Interactive Camera & Controls**: View the scene from different angles with OrbitControls and smooth easing transitions  
-![Orbit Controls Image](/doc/readme_interactive_camera.png)
+![Orbit Controls Image](/public/doc/readme_interactive_camera.png)
 
 - **Responsive & Smooth UI**: Seamless HTML animations powered by Framer Motion across all devices  
-![Responsive Design Image](/doc/readme_responsive_ui_1.png)(/doc/readme_responsive_ui_2.png)
+![Responsive Design Image](/public/doc/readme_responsive_ui_1.png)
+(/public/doc/readme_responsive_ui_2.png)
 
 
 ## Technologies Used
