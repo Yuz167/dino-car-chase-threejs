@@ -1,12 +1,41 @@
-# React + Vite
+<h1 align="center">🦖 Dinosaur Car Chase 3D Customization App 🚗</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo App](/doc/readme_home.png)
 
-Currently, two official plugins are available:
+## Highlights:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🚀 Tech stack: React Three Fiber, Three.js, Framer Motion, Maath, Drei
+- 🦖 Dinosaur Customization (models + colors)
+- 🚗 Car Customization (colors + decals)
+- 🎨 Dynamic Theme System
+- 🎥 Orbit Controls & Smooth Camera Movement
+- ✨ Responsive UI with Animations
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **3D Dinosaur-Car Chase Scene**: Create and customize a dinosaur chasing a car on a rainy day  
+![3D Scene Image](/doc/readme_dinosaur_car_chase.png)
+
+- **Dinosaur Customization**: Choose from multiple dinosaur models and apply unique color options  
+![Dinosaur Customization Image](/doc/readme_dinosaur_customization.png)
+
+- **Car Customization**: Apply different colors and decals for a personalized vehicle look  
+![Car Customization Image](/doc/readme_car_customization.png)
+
+- **Dynamic Theme System**: UI colors adapt based on selected scene customization for immersive experience  
+![Dynamic Theme Image](/doc/readme_dynamic_theme.png)
+
+- **Interactive Camera & Controls**: View the scene from different angles with OrbitControls and smooth easing transitions  
+![Orbit Controls Image](/doc/readme_interactive_camera.png)
+
+- **Responsive & Smooth UI**: Seamless HTML animations powered by Framer Motion across all devices  
+![Responsive Design Image](/doc/readme_responsive_ui_1.png)(/doc/readme_responsive_ui_2.png)
+
+
+## Technologies Used
+
+- **React Three Fiber & Three.js**: For building and rendering interactive 3D scenes  
+- **Drei**: Useful helpers for React Three Fiber  
+- **Framer Motion**: Smooth and fluid HTML/UI animations  
+- **Maath**: Easing functions for realistic camera movement and transitions  
+- **CSS & Responsive Design**: Optimized for seamless cross-device experience
