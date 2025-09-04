@@ -29,8 +29,8 @@
 ![Orbit Controls Image](/public/doc/readme_interactive_camera.png)
 
 - **Responsive & Smooth UI**: Seamless HTML animations powered by Framer Motion across all devices  
-![Responsive Design Image](/public/doc/readme_responsive_ui_1.png)
-(/public/doc/readme_responsive_ui_2.png)
+![Responsive Design Image 1](/public/doc/readme_responsive_ui_1.png)
+![Responsive Design Image 2](/public/doc/readme_responsive_ui_2.png)
 
 
 ## Technologies Used
